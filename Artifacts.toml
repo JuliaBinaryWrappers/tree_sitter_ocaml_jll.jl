@@ -1,174 +1,174 @@
 [[tree_sitter_ocaml]]
 arch = "aarch64"
-git-tree-sha1 = "9e940cbda17967d8c673c61907cb8ac0a12fdce5"
+git-tree-sha1 = "c63566f39e0bfd8611931b222af7caa4f4e189a5"
 os = "macos"
 
     [[tree_sitter_ocaml.download]]
-    sha256 = "ebcea3756a99909d35802f7533bfbb454af531615a92c471de1f5c49b9ef880b"
-    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ocaml_jll.jl/releases/download/tree_sitter_ocaml-v0.24.2+0/tree_sitter_ocaml.v0.24.2.aarch64-apple-darwin.tar.gz"
+    sha256 = "e40250042b5937c15a1c0454dd963801daea1670185969d4c2db8cae8330ba99"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ocaml_jll.jl/releases/download/tree_sitter_ocaml-v0.25.0+0/tree_sitter_ocaml.v0.25.0.aarch64-apple-darwin.tar.gz"
 [[tree_sitter_ocaml]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "06acb7d2e967d95f613e26208d2e35aa45abfc78"
+git-tree-sha1 = "f79fe01fcb3133e964ef7204d431f20d5f9653b1"
 libc = "glibc"
 os = "linux"
 
     [[tree_sitter_ocaml.download]]
-    sha256 = "b2a7c6d15fac149e6c24ac76fc730562ce3e81bd406ed70af23ec420059b9853"
-    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ocaml_jll.jl/releases/download/tree_sitter_ocaml-v0.24.2+0/tree_sitter_ocaml.v0.24.2.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "b3be21224ade7b42ae4fb4e080babf7509ebcf25de8fedff9fb695bbd651653c"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ocaml_jll.jl/releases/download/tree_sitter_ocaml-v0.25.0+0/tree_sitter_ocaml.v0.25.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[tree_sitter_ocaml]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "757d3cdc0c15815e9e4c4d79923bc4d8fd0b482f"
+git-tree-sha1 = "cd4b13bd9c6f7c34d60e342c762dffc2f6178819"
 libc = "musl"
 os = "linux"
 
     [[tree_sitter_ocaml.download]]
-    sha256 = "5f41d523818473159c41626a6f76d1c207cba482d8cd16e248670378dc1d6beb"
-    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ocaml_jll.jl/releases/download/tree_sitter_ocaml-v0.24.2+0/tree_sitter_ocaml.v0.24.2.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "4f9a38b987bb8935cec38cc2ca75fa81e2b6668bb6da5ea8133a77482b41cfbf"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ocaml_jll.jl/releases/download/tree_sitter_ocaml-v0.25.0+0/tree_sitter_ocaml.v0.25.0.aarch64-linux-musl-cxx11.tar.gz"
 [[tree_sitter_ocaml]]
 arch = "aarch64"
-git-tree-sha1 = "044778369591a0c049dad2bea061bc84641107d9"
+git-tree-sha1 = "d5abadfc1ec7b205c6b7e005da8800ccef75e2ab"
 os = "freebsd"
 
     [[tree_sitter_ocaml.download]]
-    sha256 = "fd76fa9ae500adff2058f937ae584b4a82787c3ee1ef6b8ff878b318bc90ee78"
-    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ocaml_jll.jl/releases/download/tree_sitter_ocaml-v0.24.2+0/tree_sitter_ocaml.v0.24.2.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "88480f988067331bdb09aa3a4bbed4f65baf4ca681e5d676d7ae2b8719faefe9"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ocaml_jll.jl/releases/download/tree_sitter_ocaml-v0.25.0+0/tree_sitter_ocaml.v0.25.0.aarch64-unknown-freebsd.tar.gz"
 [[tree_sitter_ocaml]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9cbf1020f238df799a4d94f7c85b1fc786d0a93a"
+git-tree-sha1 = "3a04d128cb0ef5836e48ffa99c573978b5869dc4"
 libc = "glibc"
 os = "linux"
 
     [[tree_sitter_ocaml.download]]
-    sha256 = "fceae5ee0ea9a61490977482c5338534a35dbf5ca7528e3eae26a9a76d273c1a"
-    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ocaml_jll.jl/releases/download/tree_sitter_ocaml-v0.24.2+0/tree_sitter_ocaml.v0.24.2.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "40e6efb9afc385ac2f439e36cb5867b2fa8b4d9d3728575673986fb442321e0e"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ocaml_jll.jl/releases/download/tree_sitter_ocaml-v0.25.0+0/tree_sitter_ocaml.v0.25.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[tree_sitter_ocaml]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f686f8c221bcdb9687848f2cc1beb41fad72a1ca"
+git-tree-sha1 = "065bb28ef551797be2a7d41bf6fc150fb38a927d"
 libc = "musl"
 os = "linux"
 
     [[tree_sitter_ocaml.download]]
-    sha256 = "12c69cafe7355cd045a4f00f3b18ef8d89f4f2fbd06c9f99c745871d6650e611"
-    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ocaml_jll.jl/releases/download/tree_sitter_ocaml-v0.24.2+0/tree_sitter_ocaml.v0.24.2.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "14c272e6e7e7a94690c0644f4cf615ebc87c023d76f456046ded21a2caef301b"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ocaml_jll.jl/releases/download/tree_sitter_ocaml-v0.25.0+0/tree_sitter_ocaml.v0.25.0.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[tree_sitter_ocaml]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8e03ced90f6cd43358f04723be657b53fc46c4b4"
+git-tree-sha1 = "f94593529edb256aa63c0be6c5cddfbb55db489c"
 libc = "glibc"
 os = "linux"
 
     [[tree_sitter_ocaml.download]]
-    sha256 = "8551c719e163d71d964ba1f00c803219a4a3bd2bfdd61aae86cbc09e05d9a687"
-    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ocaml_jll.jl/releases/download/tree_sitter_ocaml-v0.24.2+0/tree_sitter_ocaml.v0.24.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "9a1c4efbe66dec738c48fa497cbb2388e601085a36c4fefbb0d39500d66cac4a"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ocaml_jll.jl/releases/download/tree_sitter_ocaml-v0.25.0+0/tree_sitter_ocaml.v0.25.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[tree_sitter_ocaml]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9de60436f8199b74af91444313f3ddce2f6abe22"
+git-tree-sha1 = "1d2b29cd769d6d36e2be1ad1e5a3d6489a1c48b8"
 libc = "musl"
 os = "linux"
 
     [[tree_sitter_ocaml.download]]
-    sha256 = "96c39ca80e5acfa5ff1350b79960918242aafde2d380d5c7b844069e67390f31"
-    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ocaml_jll.jl/releases/download/tree_sitter_ocaml-v0.24.2+0/tree_sitter_ocaml.v0.24.2.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "afeb9ad031d082de2dd450f97f4e59fcaf9d5a8b78b594a3f4224ace9b805708"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ocaml_jll.jl/releases/download/tree_sitter_ocaml-v0.25.0+0/tree_sitter_ocaml.v0.25.0.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[tree_sitter_ocaml]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "269e526a958ba0f6c4b91afd68dd26e8d5953a1a"
+git-tree-sha1 = "a4a33556cfca1278bc6c244ab93f74f6542fa5fa"
 libc = "glibc"
 os = "linux"
 
     [[tree_sitter_ocaml.download]]
-    sha256 = "ed5f4723e77c509ff679f3475ca95de455c3cb06d333f5b2af654a669e49e753"
-    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ocaml_jll.jl/releases/download/tree_sitter_ocaml-v0.24.2+0/tree_sitter_ocaml.v0.24.2.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "caecac249fa8f84386d9c4c33ffb6f351b642a42c29e5000fa106d1b3e46566f"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ocaml_jll.jl/releases/download/tree_sitter_ocaml-v0.25.0+0/tree_sitter_ocaml.v0.25.0.i686-linux-gnu-cxx11.tar.gz"
 [[tree_sitter_ocaml]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "626843122e0d55327524602c99a0ab4cfbf94b49"
+git-tree-sha1 = "33feece39299058ecd024c78390dc16ebe86a990"
 libc = "musl"
 os = "linux"
 
     [[tree_sitter_ocaml.download]]
-    sha256 = "e0cd8a25128b195445569824e0b8fd3c4f5397e903656e9f96e81b58cfb48976"
-    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ocaml_jll.jl/releases/download/tree_sitter_ocaml-v0.24.2+0/tree_sitter_ocaml.v0.24.2.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "4af7e8e394fbdbea41bf254bcd67650ced7dcf6f56f9a8426638e60ae40d48bc"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ocaml_jll.jl/releases/download/tree_sitter_ocaml-v0.25.0+0/tree_sitter_ocaml.v0.25.0.i686-linux-musl-cxx11.tar.gz"
 [[tree_sitter_ocaml]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d9a1f615d8563a5f53bef3efbfe0db84ba3ecda9"
+git-tree-sha1 = "a2f5df5989cf893e37e6d447896572aa5902fc89"
 os = "windows"
 
     [[tree_sitter_ocaml.download]]
-    sha256 = "89ab2665a99d549712557b8eced8237aa90f3d710f15921deccb8b972144fcd2"
-    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ocaml_jll.jl/releases/download/tree_sitter_ocaml-v0.24.2+0/tree_sitter_ocaml.v0.24.2.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "548456a0295173b3f4f4280a93e0cedb359fcbf12f20def350d7b2c715ee62f0"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ocaml_jll.jl/releases/download/tree_sitter_ocaml-v0.25.0+0/tree_sitter_ocaml.v0.25.0.i686-w64-mingw32-cxx11.tar.gz"
 [[tree_sitter_ocaml]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "264b41637b3339e3d8a048ecef13dada64db0a7d"
+git-tree-sha1 = "a3b6732b9bdaa67d5815acee2af1fdf094cb640a"
 libc = "glibc"
 os = "linux"
 
     [[tree_sitter_ocaml.download]]
-    sha256 = "4fe4aab81913d76e93b5dff6a5fa838958527a203c7c283001fe799811fd4022"
-    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ocaml_jll.jl/releases/download/tree_sitter_ocaml-v0.24.2+0/tree_sitter_ocaml.v0.24.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "fc6a5d861332a4a8d6eb17da81d4a0efb7dec94cbf3095b6a49b737a6ae0d4ab"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ocaml_jll.jl/releases/download/tree_sitter_ocaml-v0.25.0+0/tree_sitter_ocaml.v0.25.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[tree_sitter_ocaml]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "29ecfc062712229bc8972119fbf47f181df23821"
+git-tree-sha1 = "24775bbbbbfaf7a8a871c59cb73b97135b94aec1"
 libc = "glibc"
 os = "linux"
 
     [[tree_sitter_ocaml.download]]
-    sha256 = "17918c026c0513ad082aa413e154af7f30df4b3e39b2d4d04123536ab9cbee6b"
-    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ocaml_jll.jl/releases/download/tree_sitter_ocaml-v0.24.2+0/tree_sitter_ocaml.v0.24.2.riscv64-linux-gnu-cxx11.tar.gz"
+    sha256 = "999ebff8c4191a015b470fdc315c87ca509cd2fab7daf64c79c8cd6c0592f970"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ocaml_jll.jl/releases/download/tree_sitter_ocaml-v0.25.0+0/tree_sitter_ocaml.v0.25.0.riscv64-linux-gnu-cxx11.tar.gz"
 [[tree_sitter_ocaml]]
 arch = "x86_64"
-git-tree-sha1 = "d3c390eaae24439db985875ecab047cac76d2e3a"
+git-tree-sha1 = "65864637dea4fafc6238979d9e8e7aed79e6aafb"
 os = "macos"
 
     [[tree_sitter_ocaml.download]]
-    sha256 = "40d5860ce44c75cd729828dd2af4d0fe3dc0073a1376cae52c5d9a849c36ca2b"
-    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ocaml_jll.jl/releases/download/tree_sitter_ocaml-v0.24.2+0/tree_sitter_ocaml.v0.24.2.x86_64-apple-darwin.tar.gz"
+    sha256 = "00e760c427ef4ed01c1986f73f396cbeef35eb4044d6a6b5ba0c3ccbb728b5da"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ocaml_jll.jl/releases/download/tree_sitter_ocaml-v0.25.0+0/tree_sitter_ocaml.v0.25.0.x86_64-apple-darwin.tar.gz"
 [[tree_sitter_ocaml]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "908fa7d9ac03ef18f779797495a87f7b03438e3b"
+git-tree-sha1 = "7ea982c7d8666092380722c5e95ddf3cdaa20efe"
 libc = "glibc"
 os = "linux"
 
     [[tree_sitter_ocaml.download]]
-    sha256 = "ebf102b4815e687df3908a760b9a6b322ac693ccb0c481af05850be7ff34fd45"
-    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ocaml_jll.jl/releases/download/tree_sitter_ocaml-v0.24.2+0/tree_sitter_ocaml.v0.24.2.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "c283c979565a19f63d5c8c0577a7fce4afe7b4276e6b9fe64d48317f7abb3ba0"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ocaml_jll.jl/releases/download/tree_sitter_ocaml-v0.25.0+0/tree_sitter_ocaml.v0.25.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[tree_sitter_ocaml]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d86d9b878b3ba095e725e55877a7467fedf8563b"
+git-tree-sha1 = "e652c606772a7d8f58bb81e7767b17861511d7de"
 libc = "musl"
 os = "linux"
 
     [[tree_sitter_ocaml.download]]
-    sha256 = "f7715a7f683e6040807c5cfb03b8f9b2f814ec0b566177e47f4f24ddadbec223"
-    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ocaml_jll.jl/releases/download/tree_sitter_ocaml-v0.24.2+0/tree_sitter_ocaml.v0.24.2.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "e069d1320e03296cdd4695faf36a6a2d4b758dd82c989649551b7bab4b6c1bef"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ocaml_jll.jl/releases/download/tree_sitter_ocaml-v0.25.0+0/tree_sitter_ocaml.v0.25.0.x86_64-linux-musl-cxx11.tar.gz"
 [[tree_sitter_ocaml]]
 arch = "x86_64"
-git-tree-sha1 = "c5b89187ceea57241a4f4f2f8e6d8bec69b904af"
+git-tree-sha1 = "398fcb4fa2cb0dc795f65c106d1e73b95984ea8e"
 os = "freebsd"
 
     [[tree_sitter_ocaml.download]]
-    sha256 = "d3ab5f92961e4394466e4024e5299f1d380d0195d3d88b9de62dac9d8fff6bb1"
-    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ocaml_jll.jl/releases/download/tree_sitter_ocaml-v0.24.2+0/tree_sitter_ocaml.v0.24.2.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "64eb1e3db6f2b7ba52ade56fd91210f94ec5121e42ac8bf5798cc875fe63b83b"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ocaml_jll.jl/releases/download/tree_sitter_ocaml-v0.25.0+0/tree_sitter_ocaml.v0.25.0.x86_64-unknown-freebsd.tar.gz"
 [[tree_sitter_ocaml]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6df4880e9e53503096e1d9ed67926b9e9838f86d"
+git-tree-sha1 = "4907a8187ea670d462be82617e72558746ef5c6a"
 os = "windows"
 
     [[tree_sitter_ocaml.download]]
-    sha256 = "a19e6ba96c5a9d36fa26d3f2081a6a20f7d4cae8ee36c7d0e0c98d9ece6c7cdf"
-    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ocaml_jll.jl/releases/download/tree_sitter_ocaml-v0.24.2+0/tree_sitter_ocaml.v0.24.2.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "bcd02cb54a9123243c58f7256c606f3dab22bbc0b12cc74e58a45ed2e74dfc76"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ocaml_jll.jl/releases/download/tree_sitter_ocaml-v0.25.0+0/tree_sitter_ocaml.v0.25.0.x86_64-w64-mingw32-cxx11.tar.gz"

@@ -1,6 +1,6 @@
 name = "tree_sitter_ocaml_jll"
 uuid = "58c1feab-41fe-5716-9e27-932daa5b6f35"
-version = "0.24.2+0"
+version = "0.25.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
